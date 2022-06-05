@@ -1,4 +1,4 @@
-u// Created by: Lucas Tyman
+// Created by: Lucas Tyman
 // Created on: Apr 2022
 //
 // This program calculates the pizza cost
@@ -18,7 +18,7 @@ class Program
         double totalCost;
 
         // input
-        Console.WriteLine("Welcome to Lucas' Pizzeria!");
+        Console.WriteLine("Welcome to Kenny's Pizzeria!");
         Console.WriteLine("Today we will be calculating your pizza order");
         Console.WriteLine("");
         Console.WriteLine("Please enter the size of pizza you would like (use the abbreviation):");
